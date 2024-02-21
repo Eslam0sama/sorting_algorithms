@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void fswap(int *xp, int *yp, int* flag);
+void fswap(int *xp, int *yp, int *flag);
 void swap(int *xp, int *yp);
 void print_array(const int *array, size_t size);
 void selection_sort(int *array, size_t size);
